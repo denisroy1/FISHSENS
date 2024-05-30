@@ -73,4 +73,35 @@ Professor
 Dalhousie University, Computer Science
 Canada
 ***
+## Collaborators
+Estevez-Barcia, Daniel 
+Research Associate 
+Fisheries and Shellfish, 
+Greenland Institute of Natural Resources
+
+Nutarak, Harvey 
+Director and manager 
+Fisheries, 
+Baffin Fisheries Coalition
+***
+## Socioeconomic Objectives
+### Primary,  Code,   Group
+*  RDS10805 Fisheries (including aquaculture and wild caught)
+   RDS10104 Climate and climate change
+   RDS10201 Environmentally sustainable human activities
+   RDS10205 Control and care of the environment
+   RDS11003 Tourism
+***
+## Fields of Research
+### Primary Code Division / Group / Class / Subclass (Field)
+* RDF1051001 Natural sciences / Earth and related environmental sciences / Natural environment
+sciences / Indigenous peoples environmental knowledge
+* RDF1060401 Natural sciences / Biological sciences / Ecological applications / Ecological
+impacts of climate change
+* RDF1060603 Natural sciences / Biological sciences / Genetics / Conservation genetics
+RDF1020899 Natural sciences / Computer and information sciences / Bioinformatics /
+Bioinformatics, n.e.c.
+RDF5020111 Social sciences / Economics and business administration / Economics /
+Environment and natural resources economics
+
 The world is warming, and Arctic marine ecosystems are doing so at 4 times the global average. This allows sub-Arctic species encroachment into Arctic marine areas, creating no-analog ecosystems with unpredictable outcomes. Already at the edge of their thermal tolerances, many native species must either shift their distributions, become extirpated, or be replaced by sub-Arctic predators or competitors. This will impact northerners who rely on marine species for food, cultural symbols, and natural resources supporting local economies. While integrated ecosystem approaches can predict and inform adaptive management strategies coping with warming conditions on species distribution and availability, many species central to Arctic marine ecosystem production, are severely data deficient. For >1400 marine fishes in the Canadian Arctic, knowledge of their population number, size, connectivity, and trophic relationships is insufficient to use as input into ecosystem-based modeling. This limits our ability to apply such large-scale ecosystem models in the Canadian Arctic, as proposed by our NordForsk partners (CASTAF project). As an integrated part of CASTAF, FISHSENS will fill this gap by developing much-needed genomics tools, coupled with diet (chemical tracers), and movement (electronic tracking) data, to assess climate change sensitivity, and predict the population status of Arctic marine fishes. Focal species will be determined by knowledge co-production with northern co-PIs, and derived data will feed into 4 deliverables; (1) Quantifying Arctic marine fishes sensitivity to warming conditions through a sensitivity analysis framework; (2) Generating regional-specific fish monitoring resources (SNP chips) and making monitoring data available to stakeholders through an online data hub; (3) Developing a system of environmental-economic accounts valuing the natural capital of species supporting northern fisheries; and (4) Inputting data into the Atlantis modeling framework (CASTAF) predicting ecosystem-level changes and their consequences on northerner-based fisheries in the Eastern Canadian Arctic. Northern co-PIs are pivotal to FISHSENS by providing samples, and management/monitoring advice for the Eastern Canadian Arctic. We know of no other large-scale initiative, in Canada or abroad, intending to use such multidisciplinary techniques to safeguard Arctic marine biodiversity and enabling sustainable outcomes for northern communities affected by a warming world.
