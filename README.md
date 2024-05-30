@@ -1,14 +1,13 @@
 # FISHSENS
 Building ecological knowledge to assess the sensitivity of Canadian marine fishes to Atlantification
 
-# Application ID: 
-NFRFJ-2024-00088
+## Application ID: NFRFJ-2024-00088
 
 ## Registration - New Frontiers in Research Fund - NordForsk-led Joint Initiative - 2024
 
 ## Title: CASTAF: Climate Change Adaptation Strategies for Arctic Fisheries
 
-## Does proposal involve Indigenous research as defined by SSHRC?
+### Does proposal involve Indigenous research as defined by SSHRC?
 yes
 
 # International Call Details
@@ -16,7 +15,36 @@ yes
 ## Primary Application ID: 195338
 ## Primary Application Lead: J. Rasmus Nielsen
 
-Project investigators: Denis Roy1, Nigel Hussey2, Melissa McKinney1, Zoya Martin3, Harvey Nutarak4, Robert Beiko5, Kakali Mukhopadhyay1, Paul Thomassin1, and Daniel Estévez-Barcia6,  
+### Proposed role of Canadian participants in the proposed project
+Understanding how climate change will impact the availability of Arctic marine living resources is a worldwide
+concern (i.e., NordForsk call). A warming Arctic will change harvested species' production, distribution, and
+availability, which will have important ecological, economic, and cultural consequences for northern
+communities, countries, and international relations. CASTAF: Climate Change Adaptation Strategies for Arctic
+Fisheries project (#195338), aims to use broad-scale ecosystem modeling to predict the impacts of Arctic
+warming on northern-based fisheries in 3 large Arctic marine regions (Barents Sea, Icelandic Sea, and Baffin
+Bay). CASTAF plans to use the Atlantis modeling framework, which requires 3 types of data inputs: physical
+processes, biological processes supporting exploited resources, and the cultural/economic use of those
+resources. Based on this, CASTAF can formulate and offer adaptive management strategies to maintain marine
+living resources' sustainability under different Arctic warming scenarios. However, because Arctic marine
+resources are less extensively exploited in Canada than in other Arctic countries, there is also a shortage of
+primary biological data available as inputs into broader-scale ecological models, such as Atlantis. FISHSENS, an
+integrated part of the CASTAF project, will build the much-needed fundamental ecological data on the living
+resources that are, and are likely to become, important targets of marine harvesting in Arctic Canada.
+FISHSENS: Building Ecological Knowledge to Assess the Sensitivity of Canadian Marine Fishes to Atlantification,
+has Northern co-PIs, and will work closely with northern communities to co-produce genomic, chemical tracer,
+and movement ecology data for a list of key Arctic marine species supporting productive ecosystems in the
+Eastern Canadian Arctic. These data will be used to better understand the trophic interactions, population
+dynamics, and behaviours of key marine species, which are the very data needed as critical inputs into the
+large region-wide Atlantis models. Thus, results of the FISHSENS project will feed directly into the Atlantis
+model being developed for the Eastern Canadian Arctic and the Baffin Bay ecosystems. Together, the CASTAF
+and FISHSENS projects pair European expertise on broad-scale marine ecosystem modeling with Canadian
+ecologists, economists, and northern resource managers to better understand and safeguard Arctic marinebased
+fisheries for the future.
+
+## List of Participants
+### Participant
+***
+Denis Roy, Nigel Hussey2, Melissa McKinney1, Zoya Martin3, Harvey Nutarak4, Robert Beiko5, Kakali Mukhopadhyay1, Paul Thomassin1, and Daniel Estévez-Barcia6,  
 
 1 McGill University, Department of Natural Resource Sciences, Ste-Anne-de-Bellevue QC
 2 University of Windsor, Department of Integrative Biology, Windsor ON
