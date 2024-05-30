@@ -1,10 +1,20 @@
 # FISHSENS
 Building ecological knowledge to assess the sensitivity of Canadian marine fishes to Atlantification
 
-# Project ID: 
+# Application ID: 
 NFRFJ-2024-00088
 
 ## Registration - New Frontiers in Research Fund - NordForsk-led Joint Initiative - 2024
+
+## Title: CASTAF: Climate Change Adaptation Strategies for Arctic Fisheries
+
+## Does proposal involve Indigenous research as defined by SSHRC?
+yes
+
+# International Call Details
+
+## Primary Application ID: 195338
+## Primary Application Lead: J. Rasmus Nielsen
 
 Project investigators: Denis Roy1, Nigel Hussey2, Melissa McKinney1, Zoya Martin3, Harvey Nutarak4, Robert Beiko5, Kakali Mukhopadhyay1, Paul Thomassin1, and Daniel Estévez-Barcia6,  
 
