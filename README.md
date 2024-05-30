@@ -41,34 +41,34 @@ fisheries for the future.
 ### List of Participants
 ***
 ### Participant
-Roy, Denis
+1. Roy, Denis
 Assistant Professor
 McGill University, Natural Resource Sciences
 Canada 
 
-Martin, Zoya - Co-Principal Investigator
+2. Martin, Zoya - Co-Principal Investigator
 Director of Fisheries and Sealing
 Government of Nunavut, Economic Development and
 Transportation
 Canada
 
-Hussey, Nigel - Co-Principal Investigator
+3. Hussey, Nigel - Co-Principal Investigator
 Associate Professor
 University of Windsor, Integrative Biology
 Canada
 
-McKinney, Melissa - Co-Principal Investigator
+4. McKinney, Melissa - Co-Principal Investigator
 Associate Professor
 McGill University, Natural Resource Sciences
 Canada
 
-MUKHOPADHYAY, KAKALI - Co-Applicant
+5. Mukhopadhyay, Kakali - Co-Applicant
 Associate Professor -Tenured
 McGill University, Department of Agricultural
 Economics
 Canada
 
-Beiko, Robert - Co-Applicant
+6. Beiko, Robert - Co-Applicant
 Professor
 Dalhousie University, Computer Science
 Canada
@@ -85,7 +85,7 @@ Fisheries,
 Baffin Fisheries Coalition
 ***
 ## Socioeconomic Objectives
-### Primary,  Code,   Group
+### Primary / Code / Group
 *  RDS10805 Fisheries (including aquaculture and wild caught)
    RDS10104 Climate and climate change
    RDS10201 Environmentally sustainable human activities
@@ -94,11 +94,11 @@ Baffin Fisheries Coalition
 ***
 ## Fields of Research
 ### Primary Code Division / Group / Class / Subclass (Field)
-* RDF1051001 Natural sciences / Earth and related environmental sciences / Natural environment
+RDF1051001 Natural sciences / Earth and related environmental sciences / Natural environment
 sciences / Indigenous peoples environmental knowledge
-* RDF1060401 Natural sciences / Biological sciences / Ecological applications / Ecological
+RDF1060401 Natural sciences / Biological sciences / Ecological applications / Ecological
 impacts of climate change
-* RDF1060603 Natural sciences / Biological sciences / Genetics / Conservation genetics
+RDF1060603 Natural sciences / Biological sciences / Genetics / Conservation genetics
 RDF1020899 Natural sciences / Computer and information sciences / Bioinformatics /
 Bioinformatics, n.e.c.
 RDF5020111 Social sciences / Economics and business administration / Economics /
