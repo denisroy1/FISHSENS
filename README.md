@@ -41,10 +41,10 @@ fisheries for the future.
 ### List of Participants
 ***
 ### Participant
-1. Roy, Denis
-Assistant Professor
-McGill University, Natural Resource Sciences
-Canada 
+>1. Roy, Denis - Nominated Principal Investigator
+>Assistant Professor
+>McGill University, Natural Resource Sciences
+>Canada 
 
 2. Martin, Zoya - Co-Principal Investigator
 Director of Fisheries and Sealing
