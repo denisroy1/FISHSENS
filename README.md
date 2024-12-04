@@ -51,8 +51,9 @@ fisheries for the future.
    Canada
 
 3. Parlee, Brenda - Co-Principal Investigator
-   Professor, Bieler Research Chair in Northern Climate Change and Sustainability
-   McGill University, Natural Resource Sciences
+   Professor
+   Bieler Research Chair in Northern Climate Change and Sustainability  
+   McGill University, Natural Resource Sciences  
    Canada
 
 5. Hussey, Nigel - Co-Principal Investigator  
