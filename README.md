@@ -45,9 +45,14 @@ fisheries for the future.
    McGill University, Natural Resource Sciences  
    Canada
 
-3. Martin, Zoya - Co-Principal Investigator  
+2. Martin, Zoya - Co-Principal Investigator  
    Director of Fisheries and Sealing  
    Government of Nunavut, Economic Development and Transportation  
+   Canada
+
+3. Parlee, Brenda - Co-Principal Investigator
+   Professor, Bieler Research Chair in Northern Climate Change and Sustainability
+   McGill University, Department of Natural Resource Sciences
    Canada
 
 4. Hussey, Nigel - Co-Principal Investigator  
@@ -70,17 +75,6 @@ fisheries for the future.
    Dalhousie University, Computer Science  
    Canada
 
-## Collaborators
-Estevez-Barcia, Daniel  
-Research Associate  
-Fisheries and Shellfish  
-Greenland Institute of Natural Resources
-
-Nutarak, Harvey  
-Director and manager  
-Fisheries  
-Baffin Fisheries Coalition
-***
 ## Socioeconomic Objectives
 ### Primary / Code / Group
 *  RDS10805   Fisheries (including aquaculture and wild caught)  
@@ -102,18 +96,20 @@ impacts of climate change**
 
 ## Keywords
 Arctic warming  
-Biocomplexity  
 Fish genomics  
 Ecological tracers  
-Tracking  
-Economic valuation of Arctic fishes  
-Sensitivity analyses  
-Indigenous knowledge co-production  
-Resource availabitlity  
 Atlantis modeling framework  
+Indigenous knowledge 
+Knowledge co-production
+Telemetry
+Arctic fish sensitivity to climate change 
+Economic valuation
+Resource availability
+
 ***
 ## Summary of Proposal
-The world is warming, and Arctic marine ecosystems are doing so at 4 times the global average. This allows sub-Arctic species encroachment into Arctic marine areas, creating no-analog ecosystems with unpredictable outcomes. Already at the edge of their thermal tolerances, many native species must either shift their distributions, become extirpated, or be replaced by sub-Arctic predators or competitors. This will impact northerners who rely on marine species for food, cultural symbols, and natural resources supporting local economies. While integrated ecosystem approaches can predict and inform adaptive management strategies coping with warming conditions on species distribution and availability, many species central to Arctic marine ecosystem production, are severely data deficient. For >1400 marine fishes in the Canadian Arctic, knowledge of their population number, size, connectivity, and trophic relationships is insufficient to use as input into ecosystem-based modeling. This limits our ability to apply such large-scale ecosystem models in the Canadian Arctic, as proposed by our NordForsk partners (_CASTAF_ project). As an integrated part of _CASTAF_, _FISHSENS_ will fill this gap by developing much-needed genomics tools, coupled with diet (chemical tracers), and movement (electronic tracking) data, to assess climate change sensitivity, and predict the population status of Arctic marine fishes. Focal species will be determined by knowledge co-production with northern co-PIs, and derived data will feed into 4 deliverables; (1) Quantifying Arctic marine fishes sensitivity to warming conditions through a sensitivity analysis framework; (2) Generating regional-specific fish monitoring resources (SNP chips) and making monitoring data available to stakeholders through an online data hub; (3) Developing a system of environmental-economic accounts valuing the natural capital of species supporting northern fisheries; and (4) Inputting data into the Atlantis modeling framework (_CASTAF_) predicting ecosystem-level changes and their consequences on northerner-based fisheries in the Eastern Canadian Arctic. Northern co-PIs are pivotal to _FISHSENS_ by providing samples, and management/monitoring advice for the Eastern Canadian Arctic. We know of no other large-scale initiative, in Canada or abroad, intending to use such multidisciplinary techniques to safeguard Arctic marine biodiversity and enabling sustainable outcomes for northern communities affected by a warming world.
+The world is warming, and Arctic marine ecosystems are doing so at four times the global average. This is leading to sub-Arctic species encroachment into Arctic marine areas, creating no-analog ecosystems with unpredictable outcomes. Already at the edge of their thermal tolerances, many native species must either shift their distributions or be replaced by sub-Arctic competitors. Such ecosystem changes will impact Inuit communities, which value marine species for food, culture, and local economies. Integrated ecosystem modeling approaches can predict the impacts of warming conditions on species distribution and availability, informing adaptive  management strategies. Yet, for many marine fishes in the Canadian Arctic, knowledge of their population number, size, connectivity, and trophic relationships is insufficient to use as input into ecosystem-based modeling, as proposed by our NordForsk partners (CASTAF project). As an integrated part of CASTAF, FISHSENS will fill this gap by engaging in knowledge co-production with Nunavummiut
+communities combining western science and Inuit knowledge to produce basic ecological knowledge on key Arctic marine fishes. This combined knowledge will feed into five deliverables: (1) identification of community based priority fish species on which to focus data development, (2) assessment of Arctic marine fishes’ sensitivity to warming conditions through a sensitivity analysis framework, (3) co-generation of useful fish monitoring tools for Nunavut stakeholders, (4) an economic and cultural valuation of key marine fishes to Nunavummiut, and finally (5) integration of this knowledge into the modeling framework proposed by CASTAF to predict ecosystem-level changes and their consequences for the Eastern Canadian Arctic. The northern co- PI is pivotal to FISHSENS by liaising with stakeholders and Indigenous knowledge holders and providing management/monitoring advice for the region. We know of no other large-scale initiative, in Canada or abroad, using such multidisciplinary techniques to safeguard Arctic marine biodiversity and to enable sustainable development of northern communities affected by climate change.
 ***
 ## Proposed Budget
 | Year |Direct Costs | Indirect Costs | Total |  
