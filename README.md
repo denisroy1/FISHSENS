@@ -52,25 +52,25 @@ fisheries for the future.
 
 3. Parlee, Brenda - Co-Principal Investigator
    Professor, Bieler Research Chair in Northern Climate Change and Sustainability
-   McGill University, Department of Natural Resource Sciences
+   McGill University, Natural Resource Sciences
    Canada
 
-4. Hussey, Nigel - Co-Principal Investigator  
+5. Hussey, Nigel - Co-Principal Investigator  
    Associate Professor  
    University of Windsor, Integrative Biology  
    Canada
 
-5. McKinney, Melissa - Co-Principal Investigator  
+6. McKinney, Melissa - Co-Principal Investigator  
    Associate Professor  
    McGill University, Natural Resource Sciences  
    Canada
 
-6. Mukhopadhyay, Kakali - Co-Applicant  
+7. Mukhopadhyay, Kakali - Co-Applicant  
    Associate Professor  
    McGill University, Department of Agricultural Economics  
    Canada
 
-7. Beiko, Robert - Co-Applicant  
+8. Beiko, Robert - Co-Applicant  
    Professor  
    Dalhousie University, Computer Science  
    Canada
