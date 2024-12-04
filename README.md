@@ -50,11 +50,11 @@ fisheries for the future.
    Government of Nunavut, Economic Development and Transportation  
    Canada
 
-3. Parlee, Brenda - Co-Principal Investigator
-   Professor
+3. Parlee, Brenda - Co-Principal Investigator  
+   Professor  
    Bieler Research Chair in Northern Climate Change and Sustainability  
    McGill University, Natural Resource Sciences  
-   Canada
+   Canada  
 
 5. Hussey, Nigel - Co-Principal Investigator  
    Associate Professor  
